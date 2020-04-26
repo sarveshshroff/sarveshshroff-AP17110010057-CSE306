@@ -1,0 +1,34 @@
+
+ void : identifier
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ i : identifier
+,
+ j : identifier 
+0: number
+; 
+ if : keyword 
+(
+ i : identifier
+ relational operator 
+ temp : identifier
+)
+{ 
+ float : keyword 
+ j : identifier
+ j : identifier
++
++
+;
+} 
+ else : keyword 
+{ 
+ char : keyword 
+ i : identifier 
+0: number
+;
+}
+}
