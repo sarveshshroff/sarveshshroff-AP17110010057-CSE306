@@ -1,0 +1,10 @@
+void main(){
+    int i, j = 0;
+
+    if (i == temp){
+        float j = j++;
+    }
+    else{
+        char i = 0;
+    }
+}
